@@ -43,3 +43,5 @@ echo $replace;
 
 // Problem (10):write this text inside single quotes  I'm a software engineer
 echo 'I\'m a software engineer';
+?>
+
